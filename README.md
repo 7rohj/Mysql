@@ -20,3 +20,5 @@ alter table [테이블명] engine=[엔진];
 alter table [테이블명] DEFAULT CHARACTER SET [문자셋];
 alter table [테이블명] engine=[엔진], DEFAULT CHARACTER SET [문자셋];
 ```
+
+(추가 : ENGINE=InnoDB DEFAULT CHARSET=utf8 )
