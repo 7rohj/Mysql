@@ -22,3 +22,7 @@ alter table [테이블명] engine=[엔진], DEFAULT CHARACTER SET [문자셋];
 ```
 
 (추가 : ENGINE=InnoDB DEFAULT CHARSET=utf8 )
+
+그리고 여기도 확인 </br>
+![image](https://user-images.githubusercontent.com/99319638/171999293-afe602da-08c3-4745-9646-2985c48be723.png)
+
