@@ -1,0 +1,10 @@
+이건 sql은 아니고 tableau 관련. 
+
+distinct 된 열만 filtering 해주고 싶으면 
+fixed 식 사용해주면 된다. 
+
+## 차원이 하나인 경우
+{Fixed [Unique Dimension]: MIN([Measure])} 
+
+## 여러개
+{Fixed [Dimension 1],[Dimension 2], [Dimension 3]: MIN([Measure])}
